@@ -1,0 +1,7 @@
+# Ignore directories and files built by the makefile. We don't want to add binaries to the repo
+bin/
+lib/
+prog1
+
+# On windows, executables have the .exe file extension
+prog1.exe
